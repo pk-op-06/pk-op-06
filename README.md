@@ -45,7 +45,3 @@ You can click the Preview link to take a look at your changes.
 [youtube]: https://youtube.com/prakhar992
 [instagram]: https://instagram.com/honey_1756
 [linkedin]: https://www.linkedin.com/in/er-prakhar-khandelwal-218765117/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
