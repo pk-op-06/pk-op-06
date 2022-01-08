@@ -6,8 +6,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-### Hi there, I'm Prakhar - aka pk-op-06 👋 
-## I'm a Developer and Teacher!!
+### Hi there, I'm Prakhar 👋 
+## I'm a Developer and a Teacher!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👀 I’m interested in new techs, old music, coding and cricket.
