@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @pk-op-06
-- 📫 Reach me on prakhar.khandelwal1996@gmail.com for now.
 <!---
 pk-op-06/pk-op-06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 
 ### Hi there, I'm Prakhar 👋 
 ## I'm a Developer and a Teacher!!
