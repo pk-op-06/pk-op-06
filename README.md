@@ -43,5 +43,5 @@ You can click the Preview link to take a look at your changes.
 </details>
 
 [youtube]: https://youtube.com/prakhar992
-[instagram]: https://instagram.com/honey_1756
+[instagram]: https://instagram.com/honey_2157
 [linkedin]: https://www.linkedin.com/in/er-prakhar-khandelwal-218765117/
