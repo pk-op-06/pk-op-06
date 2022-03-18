@@ -3,7 +3,7 @@ pk-op-06/pk-op-06 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-### Hi there, I'm Prakhar 👋 
+### Hi there, Prakhar this side 👋 
 ## I'm a Developer and a Teacher!!
 
 - 🌱 I’m currently learning everything 🤣
